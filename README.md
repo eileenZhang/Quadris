@@ -14,13 +14,21 @@ Type in commands on command prompt
 
 commands:
 drop: drop block to the bottom
+
 right: move right 1 space 
+
 left: move left 1 space
+
 down: move down 1 space
+
 counterclockwise: rotates block counterclockwise 90%
+
 clockwise: rotates the block 90 degrees clockwise
+
 restart: clear board and start a new game
+
 levelup: Increases the difficulty level of the game by one
+
 leveldown: Decreases the difficulty level of the game by one.
 
 NOTE:
