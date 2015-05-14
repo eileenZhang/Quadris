@@ -3,9 +3,8 @@
 Tetris without the timer 
 
 **To Start:**
-1. Type command "make" to complie and link files
-2. Type "./quadris" to run game with graphics
-
+* Type command "make" to complie and link files
+* Type "./quadris" to run game with graphics
 
 
 **NOTE:**
